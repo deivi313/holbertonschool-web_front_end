@@ -1103,7 +1103,7 @@ textarea:valid:not(:placeholder-shown) {
 	cursor: pointer;
 	padding: 2.5rem;
 	position: relative;
-	user-select: none;
+	user-select: none;	
 }
 
 .header .menu-icon .navicon {
